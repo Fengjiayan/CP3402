@@ -5,15 +5,18 @@
 - **Student Number:** 14154574
 
 ## Assignment Overview
-This assignment involves the creation of two different websites using two distinct content management systems (CMS): WordPress and Joomla. 
+This assignment requires the creation of two different websites using two different content management system CMS tools WordPress and Joomla. But because the content themes of my two websites are relatively similar, I will introduce the WordPress website creation learning journey and the Joomla website creation learning journey together.
 
 ### Estimated Time
-- **WordPress Website:** Approximately three days, including time spent watching LinkedIn Learning and YouTube videos.
-- **Joomla Website:** Created after the WordPress site, with additional learning from advanced Joomla website creation videos on YouTube.
+It took me about three days to create the WordPress website. During these days I spend time watching LinkedIn Learning videos and YouTube videos. and started creating my target WordPress website. So, overall, it took about three days to create the WordPress website, which was the first part of the assignment.
+After creating the WordPress website, I went on to create the Joomla website. Although I actually did the same assignment in week 2, I was still not satisfied with the previous assignment, so I decided to make a new Joomla website. Additionally, I watched the creation process of an advanced Joomla website on YouTube.
 
 ## Content Description for WordPress and Joomla Websites
+It took me about three days to create the WordPress website. During these days I spend time watching LinkedIn Learning videos and YouTube videos. and started creating my target WordPress website. So, overall, it took about three days to create the WordPress website, which was the first part of the assignment.
+After creating the WordPress website, I went on to create the Joomla website. Although I actually did the same assignment in week 2, I was still not satisfied with the previous assignment, so I decided to make a new Joomla website. Additionally, I watched the creation process of an advanced Joomla website on YouTube.
+
 ### Restaurant Digital Transformation: An Overview
-The focus is on how contemporary restaurants are embracing digital technology to enhance the dining experience.
+The concept of restaurant digital integration is similar to creating a Joomla website for cooking enthusiasts. This is to simplify a complex process and make it easier for customers to access and enjoy. From online reservations and digital menus to artificial intelligence-driven personalization and virtual reality experiences, restaurants are reshaping how customers interact with their culinary offerings.
 
 #### Goals of Digital Fine Dining Restaurants
 - **Specific:** Enhance customer experience with digital menus, online reservations, and personalized recommendations.
@@ -28,7 +31,7 @@ The focus is on how contemporary restaurants are embracing digital technology to
 - **Content Insights:** Digital integration enhances customer engagement, efficiency, and personalization.
 
 ### Careers/Employability/Learning Insights
-The transformation into a digitally advanced restaurant mirrors the learning process of Joomla, opening new career paths and adding valuable skills in digital marketing, data analysis, and app development.
+The process of transforming a traditional restaurant into a digitally advanced restaurant is both challenging and rewarding. It requires learning new skills such as digital marketing, data analysis, and app development. The journey is akin to learning Joomla for website development - it opens up new career paths in the hospitality industry, improves employability by adding an understanding of technology to traditional cooking skills, and feeds into the ever-evolving intersection of food and technology Valuable insights.
 
 ## Summary
-The journey of integrating technology in restaurants, akin to creating a WordPress website for beginners, redefines the dining experience and underscores the importance of innovation in enhancing customer satisfaction and business success.
+In conclusion, just as a WordPress website can demystify the world of food for beginners, digital technology can redefine the restaurant dining experience. This journey involves not only adopting new tools, but also embracing a culture of innovation that significantly increases customer satisfaction and business success. Technology integration in the restaurant industry is an ongoing journey that promises to continue to evolve and inspire.
