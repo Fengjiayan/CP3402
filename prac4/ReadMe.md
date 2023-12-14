@@ -7,7 +7,7 @@
 ## Learning Journey for Week 4
 
 ### Introduction
-Following on from my previous project, this week I chose to delve deeper into the world of web development, focusing specifically on XAMPP and phpMyAdmin. The main goal of this project is to create a local development environment to experiment with web applications. The website I plan to develop will serve as a platform for users to learn about and interact with basic web development concepts.
+Following on from my previous project, this week I chose to delve deeper into the world of web development, focusing specifically on XAMPP and phpMyAdmin. The main goal of this project is to create a local development environment to experiment with web applications. I plan to use the newly learned XAMPP and Myphpadmin to make better use of the website I built before.
 
 ### Estimated Time
 - **Task Completion:** Since the instructor demonstrated the solution during the practical session, I followed his steps during the course and completed the task in class.
