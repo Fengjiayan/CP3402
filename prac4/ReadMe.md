@@ -13,7 +13,7 @@ Following on from my previous project, this week I chose to delve deeper into th
 - **Task Completion:** Since the instructor demonstrated the solution during the practical session, I followed his steps during the course and completed the task in class.
 
 ### Learning Activities and Resources
-- **I spent the first part of the week learning about XAMPP and phpMyAdmin mainly using online tutorials and documentation. This research phase helped me grasp the basic concepts needed to build a website.To build a solid foundation, I utilized a variety of online resources, including technology blogs, web development forums, and online courses. The next few days were spent in practical application, creating a simple website integrating these tools.
+- I spent the first part of the week learning about XAMPP and phpMyAdmin mainly using online tutorials and documentation. This research phase helped me grasp the basic concepts needed to build a website.To build a solid foundation, I utilized a variety of online resources, including technology blogs, web development forums, and online courses. The next few days were spent in practical application, creating a simple website integrating these tools.
 - **Tutorials Used:**
   - [XAMPP tutorial for beginners](https://www.youtube.com/watch?v=r0lDDeVkaks)
   - [phpMyAdmin Tutorial](https://www.youtube.com/watch?v=vmSTJI3gFSg&list=PLk-EmIiBIYGF8WCitdIVq7dvvacqY0rdl)
