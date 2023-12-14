@@ -1,4 +1,4 @@
-# Explaining Learning Journey for Content Management System Practical Week 4
+# Local Development and Deployment Week 4 Hands-on Learning Log
 
 ## Student Information
 - **Name:** Jiayan Feng
