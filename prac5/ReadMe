@@ -1,0 +1,38 @@
+# Exploring the Progression of Database Management Systems Practical Week 5
+**Name:** Jiayan Feng
+**Student ID:** 14154574
+
+## A Concise Summary of the Progression Made in Week 5
+This summary includes educational tasks and resources, anticipated time commitment, conceptual insights, and reflections on career and learning development.
+
+### Week 5 Progression Overview
+#### Educational Tasks and Resources
+In Week 5's practical session, we were tasked with implementing at least six significant enhancements to the database interface:
+
+1. **Green Highlights and Thicker Borders on Selection:**  
+   - Enhanced the border width of selected fields (`border-width: 2px`)  
+   - Added a green highlight (`background-color: green`) to make active selections more noticeable.
+
+2. **Interactive Buttons:**  
+   - Buttons (`btn-class:hover`, `btn-class:focus`) now change to a vibrant purple (`color: purple`) when hovered over or clicked. This provides an immediate visual response to user interactions.
+
+3. **Dark Text Theme:**  
+   - Altered the text color to a darker shade (`color: darkslategray`) for better readability and a more professional look.
+
+4. **Increased Padding:**  
+   - Padding around text and fields (`padding: 10px`) was increased for a cleaner and more spaced-out layout.
+
+5. **Yellow Highlights for Active Fields:**  
+   - Active input fields now have a yellow background (`background-color: yellow`) to clearly indicate where the user is currently interacting.
+
+6. **Dark Blue Background:**  
+   - The interface background is now a deep blue (`background-color: darkblue`), which creates a professional and focused atmosphere.
+
+#### Estimated Time
+Completing these enhancements took approximately four hours, including testing and refining.
+
+### Conceptual Perspective
+These interface adjustments go beyond superficial changes; they are about improving user interaction and visual accessibility. The modifications reflect dedication to creating an intuitive and efficient user interface.
+
+### Career/Employment/Learning Reflections
+During this practical exercise, knowledge of CSS and interactive design principles was refined through platforms like Codecademy. The experience diversified skill sets and provided a comprehensive perspective on the technical aspects of database management systems.
