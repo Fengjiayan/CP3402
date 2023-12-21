@@ -9,24 +9,17 @@ This summary includes educational tasks and resources, anticipated time commitme
 #### Educational Tasks and Resources
 In Week 5's practical session, we were tasked with implementing at least six significant enhancements to the database interface:
 
-1. **Green Highlights and Thicker Borders on Selection:**  
-   - Enhanced the border width of selected fields (`border-width: 2px`)  
-   - Added a green highlight (`background-color: green`) to make active selections more noticeable.
+1. **Responsive Layout Adjustments: Implementing media queries in the CSS to ensure that the layout is responsive and adapts smoothly to different screen sizes. This would involve adding appropriate CSS rules in the style.css file, which is then enqueued by your PHP code using functions like wp_enqueue_style.**  
 
-2. **Interactive Buttons:**  
-   - Buttons (`btn-class:hover`, `btn-class:focus`) now change to a vibrant purple (`color: purple`) when hovered over or clicked. This provides an immediate visual response to user interactions.
+2. **Custom Fonts Integration: Adding a set of custom web fonts to give the theme a unique look. This would involve incorporating @font-face rules in the CSS and potentially using PHP to load the fonts from an external source or local files.**  
 
-3. **Dark Text Theme:**  
-   - Altered the text color to a darker shade (`color: darkslategray`) for better readability and a more professional look.
+3. **Dynamic Color Scheme: Implementing a feature that allows users to select a color scheme from the WordPress customizer. This would involve both PHP (to create customizer settings and controls) and CSS (to apply the selected colors).**  
 
-4. **Increased Padding:**  
-   - Padding around text and fields (`padding: 10px`) was increased for a cleaner and more spaced-out layout.
+4. **Improved Accessibility Features: Enhancing keyboard navigation and adding ARIA roles for better accessibility. While most of this would be handled in the HTML and JavaScript, PHP could be used to add necessary attributes or scripts.**  
 
-5. **Yellow Highlights for Active Fields:**  
-   - Active input fields now have a yellow background (`background-color: yellow`) to clearly indicate where the user is currently interacting.
+5. **Lazy Loading for Images: Integrating lazy loading for images to improve page load times. This could involve PHP functions to modify the way images are loaded in WordPress and adding JavaScript for the lazy loading functionality.**  
 
-6. **Dark Blue Background:**  
-   - The interface background is now a deep blue (`background-color: darkblue`), which creates a professional and focused atmosphere.
+6. **Custom Post Types and Taxonomies: Creating custom post types and taxonomies for specialized content, like portfolio items, testimonials, etc. This would be handled entirely in PHP, defining the custom post types and taxonomies in your theme's functions.php file or a plugin file.**  
 
 #### Estimated Time
 Completing these enhancements took approximately four hours, including testing and refining.
