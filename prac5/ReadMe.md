@@ -19,8 +19,12 @@ In Week 5's practical session, we were tasked with implementing at least six sig
 
 5. **Lazy Loading for Images: Integrating lazy loading for images to improve page load times. This could involve PHP functions to modify the way images are loaded in WordPress and adding JavaScript for the lazy loading functionality.**  
 
-6. **Custom Post Types and Taxonomies: Creating custom post types and taxonomies for specialized content, like portfolio items, testimonials, etc. This would be handled entirely in PHP, defining the custom post types and taxonomies in your theme's functions.php file or a plugin file.**  
+6. **Custom Post Types and Taxonomies: Creating custom post types and taxonomies for specialized content, like portfolio items, testimonials, etc. This would be handled entirely in PHP, defining the custom post types and taxonomies in your theme's functions.php file or a plugin file.**
 
+7. **Advanced Custom Fields Integration: Using the Advanced Custom Fields plugin to create more customizable options for posts and pages. This would involve PHP to define and display new custom fields, possibly in conjunction with JavaScript for more dynamic fields.**
+
+8. *Optimization for SEO: Improving the theme's SEO by adding schema markup and ensuring proper use of headings and meta tags. This would largely involve PHP to dynamically insert the correct tags and attributes in the page's HTML.*
+   
 #### Estimated Time
 Completing these enhancements took approximately four hours, including testing and refining.
 
