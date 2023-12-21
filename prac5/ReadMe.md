@@ -23,7 +23,7 @@ In Week 5's practical session, we were tasked with implementing at least six sig
 
 7. **Advanced Custom Fields Integration: Using the Advanced Custom Fields plugin to create more customizable options for posts and pages. This would involve PHP to define and display new custom fields, possibly in conjunction with JavaScript for more dynamic fields.**
 
-8. *Optimization for SEO: Improving the theme's SEO by adding schema markup and ensuring proper use of headings and meta tags. This would largely involve PHP to dynamically insert the correct tags and attributes in the page's HTML.*
+8. **Optimization for SEO: Improving the theme's SEO by adding schema markup and ensuring proper use of headings and meta tags. This would largely involve PHP to dynamically insert the correct tags and attributes in the page's HTML.**
    
 #### Estimated Time
 Completing these enhancements took approximately four hours, including testing and refining.
