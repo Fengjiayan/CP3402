@@ -28,7 +28,7 @@ In Week 5's practical session, we were tasked with implementing at least six sig
 #### Estimated Time
 Completing these enhancements took approximately four hours, including testing and refining.
 
-### Conceptual Perspective
+### Content Insights
 These interface adjustments go beyond superficial changes; they are about improving user interaction and visual accessibility. The modifications reflect dedication to creating an intuitive and efficient user interface.
 
 ### Career/Employment/Learning Reflections
