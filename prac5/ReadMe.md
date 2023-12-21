@@ -7,7 +7,7 @@ This summary includes educational tasks and resources, anticipated time commitme
 
 ### Week 5 Progression Overview
 #### Educational Tasks and Resources
-In Week 5's practical session, we were tasked with implementing at least six significant enhancements to the database interface:
+In week 5 of the hands-on course, I was tasked with implementing at least eight major improvements to the database interface:
 
 1. **Responsive Layout Adjustments: Implementing media queries in the CSS to ensure that the layout is responsive and adapts smoothly to different screen sizes. This would involve adding appropriate CSS rules in the style.css file, which is then enqueued by your PHP code using functions like wp_enqueue_style.**  
 
