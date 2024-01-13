@@ -22,6 +22,12 @@ I spend one week to finish this practical.
 
 During the learning process, I've discovered that adopting an effective learning method can greatly enhance the speed of acquiring computer knowledge. By combining learning with hands-on practice, I can quickly grasp coding techniques, leading to a significant boost in my work efficiency.Balancing old and new content makes the course of study attractive and varied, potentially reducing the monotony associated with continuous learning.
 
+### Experiment Outcomes
+
+Enhanced Recall with Spaced Repetition: The application of the spaced repetition technique has notably improved my ability to remember previously covered topics. This method, which involves revisiting material at strategic intervals, has proven effective in strengthening my recall capabilities.
+
+Comprehensive Learning Experience: Adopting this method has facilitated a more well-rounded approach to my studies. It ensured that I consistently revisited and reinforced past learning while simultaneously absorbing new information, thus maintaining a balanced and thorough understanding of all the content.
+
 ### Career/Employability/Learning Insights
 
 During this week's work, I have not only experimented with new ways of learning, but also gained insights into the importance of front-end engineering in rapidly evolving fields such as CMS and web development. Adopting a modern approach to front-end development significantly reduces the cognitive load associated with front-end coding and increases code maintainability. The ability to quickly absorb new information while retaining prior knowledge is critical. These skills are not only academic but translate directly into a professional environment where continuous learning and adaptation are key. This realisation also applies to future work.
